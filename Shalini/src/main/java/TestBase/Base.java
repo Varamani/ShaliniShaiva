@@ -43,6 +43,7 @@ public class Base {
 		driver.get(prop.getProperty("App_Url"));
 	
 		System.out.println("shalini");
+		System.out.println("Malinis");
 }
      
 }
