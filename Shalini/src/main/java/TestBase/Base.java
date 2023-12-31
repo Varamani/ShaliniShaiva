@@ -41,6 +41,8 @@ public class Base {
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
 			
 		driver.get(prop.getProperty("App_Url"));
-		
+	
+		System.out.println("shalini");
 }
+     
 }
